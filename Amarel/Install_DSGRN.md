@@ -9,7 +9,7 @@ First load the necessary modules
 	module load python/3.5.2
 	module load gcc/5.4
 
-The `gcc` module is only necessary when installing or compiling software using `C/C++`. The `Python` module needs to be loaded before running `DSGRN` or `Python`. You can add the necessary load commands to your shell configuration file (`.bashrc` assuming you are using `bash`) so they will be loaded automatically every time you login.
+The `gcc` module is only necessary when installing or compiling software using `C/C++`. The `Python` module needs to be loaded before running `Python` or `DSGRN`. You can add the necessary module commands to your shell configuration file (`.bashrc` if you are using `bash`) so they will be loaded automatically every time you login.
 
 ## Install pyCHomP
 

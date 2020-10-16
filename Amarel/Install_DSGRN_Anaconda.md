@@ -1,6 +1,6 @@
 # Install DSGRN using Anaconda
 
-Another possibility to install DSGRN is to use [Anaconda](https://www.anaconda.com/distribution/).
+Another possibility is to install DSGRN using [Anaconda](https://www.anaconda.com/distribution/).
 
 ## Install Anaconda
 
@@ -9,7 +9,7 @@ First install Anaconda
 	wget https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
 	bash Anaconda3-2020.07-Linux-x86_64.sh
 
-Type `source .bashrc` (or close your shell and login again) for the configurations to take effect.
+Type `source .bashrc` (or close your terminal and login again) for the configurations to take effect.
 
 ## Update Anaconda
 

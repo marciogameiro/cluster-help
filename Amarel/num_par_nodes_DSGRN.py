@@ -6,4 +6,4 @@ network = DSGRN.Network(net_spec)
 
 parameter_graph = DSGRN.ParameterGraph(network)
 
-print('Number of nodes in parameter graph:', parametergraph.size())
+print('Number of nodes in parameter graph:', parameter_graph.size())
