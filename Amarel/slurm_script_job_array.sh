@@ -14,8 +14,9 @@
 #SBATCH --export=ALL               # Export you current env to the job env
 
 # Load necessary modules
-module purge
-module load python/3.5.2
+# module purge
+# module load intel/19.0.3
+# module load python/3.5.2
 
 # Run python script with input data. The variable ${SLURM_ARRAY_TASK_ID}
 # is the array task id and varies from 0 to 99 in this example.

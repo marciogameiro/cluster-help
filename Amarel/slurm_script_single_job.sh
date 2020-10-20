@@ -13,8 +13,9 @@
 #SBATCH --export=ALL                 # Export you current env to the job env
 
 # Load necessary modules
-module purge
-module load python/3.5.2
+# module purge
+# module load intel/19.0.3
+# module load python/3.5.2
 
 # Run python script with input data
 srun python sample_script.py input_data.dat 32

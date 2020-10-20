@@ -6,6 +6,7 @@ Instructions on how to install DSGRN using the modules and libraries available o
 
 First load the necessary modules
 
+	module purge
 	module load python/3.5.2
 	module load gcc/5.4
 
